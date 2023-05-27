@@ -7,4 +7,5 @@ blessingblockchain/ README.md
 - I work as a Blockchain/Smart contract engineer. Mostly using Solidity, Reactjs, Nodejs, web3js, Javascript, Python, Typescript.
 - Also a strategist in Developer Relations, Community managements and Developer Advocacy.
 - Interested in Smart contract Engineering, Software Engineering and Developer Relations/Advocacy. 
-- Wanna catch-up? Schedule a meet with me at calendly.com/adeolasola01  
+- Wanna catch-up? Schedule a meet with me at https://calendly.com/adeolasola01
+- General mails at adeolasola01@gmail.com  
