@@ -17,7 +17,8 @@
 - Currently working as a Developer Advocate at [thegraph.com](https://twitter.com/graphprotocol)
 - Currently working as an Ambassador at [Quicknode](https://twitter.com/QuickNode) 
 - Buidling [Web3_Nados](https://twitter.com/Web3_Nados) community; a blockchain educational system on the internet.
-- Currently an open source contributor at [GSSoC'23](https://twitter.com/girlscriptsoc) 
+- Currently an open source contributor at [GSSoC'23](https://twitter.com/girlscriptsoc)
+- Documented Over 80 Technical Articles[https://medium.com/@adeolasola01]
 
 # Projects and showcase
 - Developed and wrote more than 20 Solidity smart contracts codes.
